@@ -1,5 +1,6 @@
 #### CSC 112 Final Project
 A. Hardcode: C -> MIPS64 Assembly -> Machine Code (bin : hex)
+
 B. Using lex and yacc: yet started
 
 A:
