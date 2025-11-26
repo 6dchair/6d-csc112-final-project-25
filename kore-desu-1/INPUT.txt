@@ -1,0 +1,7 @@
+int a;     int    b;;  ;; ;;
+int result;
+
+a = 2;
+b = 3;
+
+result = a * b;   result = result * 2  ; ;;; ;; int c; 
