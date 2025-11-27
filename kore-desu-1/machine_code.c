@@ -12,7 +12,7 @@
 #define OP_SD 0x3F // 64-bit store doubleword
 
 // R-type function codes (funct field)
-#define FUNCT_DADDU 0x21
+#define FUNCT_DADDU 0x2D
 #define FUNCT_DSUBU 0x23
 #define FUNCT_DMULT 0x18
 #define FUNCT_DDIV 0x1A
